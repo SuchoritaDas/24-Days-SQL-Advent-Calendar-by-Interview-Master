@@ -1,3 +1,6 @@
+## This repository contains my solutions to Interview Master's 24-day SQL Advent Calendar challenge.
+
+
 🎄 SQL Advent Calendar 2025 – Completion Project
 I successfully completed the SQL Advent Calendar 2025 challenge by Interview Master, solving 24 SQL problems across Easy, Medium, and Hard levels throughout December.
 
